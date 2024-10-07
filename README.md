@@ -14,6 +14,10 @@ Trabajé con 2 set de datos, para realizar A/B tests, uno con un grupo control (
 También llegué a conocer un poco "Google Optimize", más varios días de interiorizar conceptos (tutoriales y más)
 
 
+I worked with 2 data sets to perform A/B tests, one with a control group (A) and 2 variants (B, C), the other data set that did not meet the assumptions of normality and equality of variances.
+
+I also got to know a little about "Google Optimize", plus several days of internalizing concepts (tutorials and more)
+
 
 
 ## Colaboradores
