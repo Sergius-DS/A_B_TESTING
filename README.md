@@ -9,6 +9,10 @@
 
 Estos proyectos busca utilizando la Ciencia de Datos, determinar si en algunos casos los resultados son estadísticamente significafivos, usando A/B Tests.
 
+Trabajé con 2 set de datos, para realizar A/B tests, uno con un grupo control (A) y 2 variantes(B,C), el otro set de datos que no cumplía con los supuestos de normalidad e igualdad de varianzas. 
+
+También llegué a conocer un poco "Google Optimize", más varios días de interiorizar conceptos (tutoriales y más)
+
 
 
 
